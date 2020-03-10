@@ -1,0 +1,5 @@
+col-*
+col-sm-*               (sm)all
+col-md-*               (m)e(d)ium
+col-lg-*                  (l)ar(g)e
+col-xl-*                  (e)xtra (l)arge  
